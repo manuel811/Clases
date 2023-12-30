@@ -22,7 +22,7 @@ public class Main {
 
             if(p instanceof Docente){
 
-                System.out.println("p = " + p.toString());
+                System.out.println("a = " + p.toString());
             }
 
         }
