@@ -29,7 +29,7 @@ public class Persona {
     public String toString() {
         return "Persona{" +
                 "nomYApe='" + nomYApe + '\'' +
-                ", dni1=" + dni +
+                ", dni=" + dni +
                 '}';
     }
 }
